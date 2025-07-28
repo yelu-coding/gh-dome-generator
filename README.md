@@ -70,11 +70,10 @@ Inhalte:
 
 ---
 
-## 📷 Screenshots (optional)
+## 📷 Screenshots 
+<img width="1233" height="498" alt="image" src="https://github.com/user-attachments/assets/728e3250-95a7-461f-91ef-1da70d24dc65" />
 
-*(You can insert preview images here)*
 
----
 
 ## 🧩 Required Plugins
 
