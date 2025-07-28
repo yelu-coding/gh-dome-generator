@@ -5,6 +5,7 @@ Grasshopper & Python · Visual Programming Advanced · RWTH Aachen
 This repository showcases the parametric modeling and scripting of the Reichstag Dome.  
 The project explores geometric logic, point cloud scripting, and digital fabrication readiness  
 via Rhino + Grasshopper and GHPython components.
+
 This project was created during the **Visual Programming Advanced** course at RWTH Aachen.
 
 ---
