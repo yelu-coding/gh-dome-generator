@@ -98,4 +98,4 @@ Chair of Individualized Production
 ## 📧 Contact
 
 Maintainer: [yelu-coding](https://github.com/yelu-coding)  
-Email: your@email.com
+Email: luye6651@gmail.com
