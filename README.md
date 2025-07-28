@@ -64,8 +64,6 @@ Inhalte:
 |------|-------------|
 | `2024_WS_VPA_Final_LU_YE_cone.gh` | Conical dome with ramp and structural elements |
 | `2024_WS_VPA_Final_LU_YE_cylinder.gh` | Cylindrical dome with detailed logic |
-| `spherical_dome.py` | Python: spherical dome point cloud |
-| `catenary_dome.py` | Python: catenary dome point cloud |
 | `dome_pointcloud_examples.gh` | GH file using Python scripts to generate point clouds |
 | `VPA_2024_WS_Final_Lu_Ye.pdf` | Final project explanation sheet with diagrams |
 
