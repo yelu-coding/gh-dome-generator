@@ -73,16 +73,12 @@ Inhalte:
 <img width="1233" height="498" alt="image" src="https://github.com/user-attachments/assets/728e3250-95a7-461f-91ef-1da70d24dc65" />
 
 
-
 ## 🧩 Required Plugins
-
 
 To fully open the files, please install:
 
-- <a href="https://www.food4rhino.com/en/app/spiral-curve-generator">SpiralCurveG</a>  
-- <a href="https://www.food4rhino.com/en/app/lunchbox">LunchBox (2020+)</a>
-
-
+- SpiralCurveG: https://www.food4rhino.com/en/app/spiral-curve-generator  
+- LunchBox (2020+): https://www.food4rhino.com/en/app/lunchbox
 
 
 ---
