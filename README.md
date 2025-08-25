@@ -79,8 +79,9 @@ Inhalte:
 To fully open the files, please install:
 
 - [Bifocals](https://www.food4rhino.com/en/app/bifocals)  
-- [SpiralCurveG](https://www.food4rhino.com/en/app/spiral-curve-generator)  
-- [LunchBox (2020+)](https://www.food4rhino.com/en/app/lunchbox)
+- <a href="https://www.food4rhino.com/en/app/spiral-curve-generator?lang=en">SpiralCurveG</a>  
+- <a href="https://www.food4rhino.com/en/app/lunchbox?lang=en">LunchBox (2020+)</a>
+
 
 ---
 
