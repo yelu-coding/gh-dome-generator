@@ -79,8 +79,8 @@ Inhalte:
 To fully open the files, please install:
 
 
-- SpiralCurveG : https://www.food4rhino.com/en/app/spiral-curve-generator
-- LunchBox (2020+) :https://www.food4rhino.com/en/app/lunchbox
+- SpiralCurveG : "https://www.food4rhino.com/en/app/spiral-curve-generator"
+- LunchBox (2020+) : "https://www.food4rhino.com/en/app/lunchbox"
 
 
 
