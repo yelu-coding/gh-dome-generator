@@ -76,11 +76,12 @@ Inhalte:
 
 ## 🧩 Required Plugins
 
+
 To fully open the files, please install:
 
+- <a href="https://www.food4rhino.com/en/app/spiral-curve-generator">SpiralCurveG</a>  
+- <a href="https://www.food4rhino.com/en/app/lunchbox">LunchBox (2020+)</a>
 
-- [SpiralCurveG](https://www.food4rhino.com/en/app/spiral-curve-generator)
-- [LunchBox (2020+)](https://www.food4rhino.com/en/app/lunchbox) 
 
 
 
